@@ -1,0 +1,13 @@
+{
+  "name": "sdon",
+  "version": "0.0.1",
+  "description": "A JavaScript project builder",
+  "license": "MIT",
+  "keywords": [
+    "sdon"
+  ],
+  "homepage": "https://github.com/conerjs/sdon#readme",
+  "bugs": "https://github.com/conerjs/sdon/issues",
+  "repository": "git+https://github.com/conerjs/sdon.git",
+  "devDependencies": {}
+}
